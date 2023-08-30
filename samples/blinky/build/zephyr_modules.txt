@@ -1,0 +1,5 @@
+"cmsis":"/home/linnea/git/exjobb/delta-updates-for-embedded-systems/modules/hal/cmsis":"/home/linnea/git/exjobb/delta-updates-for-embedded-systems/modules/hal/cmsis"
+"hal_nordic":"/home/linnea/git/exjobb/delta-updates-for-embedded-systems/modules/hal/nordic":"${ZEPHYR_HAL_NORDIC_CMAKE_DIR}"
+"mbedtls":"/home/linnea/git/exjobb/delta-updates-for-embedded-systems/modules/crypto/mbedtls":"${ZEPHYR_MBEDTLS_CMAKE_DIR}"
+"mcuboot":"/home/linnea/git/exjobb/delta-updates-for-embedded-systems/bootloader/mcuboot":"/home/linnea/git/exjobb/delta-updates-for-embedded-systems/bootloader/mcuboot/boot/bootutil/zephyr"
+"segger":"/home/linnea/git/exjobb/delta-updates-for-embedded-systems/modules/debug/segger":"${ZEPHYR_SEGGER_CMAKE_DIR}"

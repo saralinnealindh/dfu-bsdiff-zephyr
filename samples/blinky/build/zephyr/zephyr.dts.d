@@ -1,0 +1,22 @@
+empty_file.o: \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/misc/empty_file.c \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/boards/arm/nrf52840dk_nrf52840/nrf52840dk_nrf52840.dts \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/dts/arm/nordic/nrf52840_qiaa.dtsi \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/dts/common/mem.h \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/dts/arm/nordic/nrf52840.dtsi \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/dts/arm/armv7-m.dtsi \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/dts/common/skeleton.dtsi \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/dts/arm/nordic/nrf_common.dtsi \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/include/zephyr/dt-bindings/adc/adc.h \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/include/zephyr/dt-bindings/adc/nrf-adc.h \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/include/zephyr/dt-bindings/dt-util.h \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/include/zephyr/sys/util_macro.h \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/include/zephyr/sys/util_internal.h \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/include/zephyr/sys/util_loops.h \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/include/zephyr/dt-bindings/gpio/gpio.h \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/include/zephyr/dt-bindings/i2c/i2c.h \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/include/zephyr/dt-bindings/pinctrl/nrf-pinctrl.h \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/include/zephyr/dt-bindings/pwm/pwm.h \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/dts/common/freq.h \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/dts/arm/nordic/override.dtsi \
+ /home/linnea/git/exjobb/delta-updates-for-embedded-systems/zephyr/boards/arm/nrf52840dk_nrf52840/nrf52840dk_nrf52840-pinctrl.dtsi

@@ -39,8 +39,6 @@
 /* Compressions. */
 #define COMPRESSION_HEATSHRINK                              4
 
-#define MIN(x, y) (((x) < (y)) ? (x) : (y))
-#define MAX(x, y) (((x) > (y)) ? (x) : (y))
 #define DIV_CEIL(n, d) (((n) + (d) - 1) / (d))
 
 /*

@@ -1,0 +1,8 @@
+
+config ZEPHYR_DFU_BSDIFF_MODULE
+	bool
+
+menuconfig DFU_BSDIFF
+	bool "blabla"
+	help
+	  Blabla

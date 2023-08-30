@@ -1,6 +1,6 @@
 manifest:
   self:
-    path: app
+    path: samples/blinky
 
   defaults:
     remote: zephyr-upstream

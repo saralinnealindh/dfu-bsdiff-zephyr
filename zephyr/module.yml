@@ -1,0 +1,5 @@
+name: dfu_bsdiff
+
+build:
+  cmake-ext: ../
+  kconfig-ext: zephyr/Kconfig

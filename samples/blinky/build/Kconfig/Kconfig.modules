@@ -1,0 +1,12 @@
+menu "hal_nordic (/home/linnea/git/exjobb/delta-updates-for-embedded-systems/modules/hal/nordic)"
+osource "$(ZEPHYR_HAL_NORDIC_KCONFIG)"
+config ZEPHYR_HAL_NORDIC_MODULE
+	bool
+	default y
+endmenu
+menu "mbedtls (/home/linnea/git/exjobb/delta-updates-for-embedded-systems/modules/crypto/mbedtls)"
+osource "$(ZEPHYR_MBEDTLS_KCONFIG)"
+config ZEPHYR_MBEDTLS_MODULE
+	bool
+	default y
+endmenu
