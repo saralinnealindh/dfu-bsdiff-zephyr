@@ -1,0 +1,4 @@
+detools
+pyocd
+pynrfjprog
+imgtool
